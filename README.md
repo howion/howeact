@@ -1,6 +1,6 @@
 # Howeact
 
-[**React**](https://reactjs.org/) development kit for **single page** applications.
+Simple [**React**](https://reactjs.org/) development kit for **single page** applications.
 
 ## Usage
 
